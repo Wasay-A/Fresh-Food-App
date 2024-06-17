@@ -3,6 +3,7 @@
 <b>Overview</b><br>
 Fresh Food App is a <ins>developmental</ins> project worked on by Wasay Ahmed, Christian Gutierrez, Jordan Nguyen, and Natalie Reyes during Spring 2022 at University of Illinois at Chicago for the course CS 440 Software Engineering 1 taught by Professor John Bell. 
 
+The <ins>developmental</ins> project involved an extensive and various amounts of documentation consisting of information, diagrams, designs, and requirements. The purpose of this project is to make it so that another team can read through the various amounts of documentation and be able to implement, code, or create a functioning version of this project which would be reffered as the <ins>coding</ins> project. This means that everything in the documentation has to be clear and concise so that the functioning version is created properly and accordingly to the plan.
 
 File "Develop" contains project slides, app summaries, and app development report with extensive information including various diagrams, designs, and requirements.
 
